@@ -61,10 +61,18 @@ if __name__ == '__main__':
       for item in h2: # loop h2 element list
         a_bf = BeautifulSoup(str(item),'lxml') # build a lemeent to bf object with lxml rule
         a = a_bf.find_all('a') # finding all a element to a list
+        length = len(a) # a list length
+        n = 0 # n for judge position in a list
         for item in a:
-          clean_res = res.sub('', str(item.get_text())) # clean the text in a element
+          n += 1
+          clean_res = res.sub('', str(item.get_text())).strip() # clean the text in <a> element
           # print(item.findAll(text=True)) #This way is also fine
           print(clean_res) # print result
+          with open('.\douban_c++_bookList.txt', 'a', encoding = 'utf8') as file_obj: # create a append model file objecft for file write, encoding with utf8
+            if n == length-1: # judgeing if n is on last position of a list
+              file_obj.write(clean_res) # if yes, not add \n
+            else:
+              file_obj.write(clean_res+'\n') # if not, add \n
       time.sleep(np.random.rand()*5) # sleep with random time
     except:
       print('error')
