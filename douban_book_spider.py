@@ -41,8 +41,8 @@ def setParams(offset_value):
 # |&nbsp|\xa0|\\xa0|\u3000|\\u3000|\\u0020|\u0020 # Some white space ASCII CODE
 res = re.compile(r'\n|\t|\f|\r')
 
-# main function
-if __name__ == '__main__':
+# douban c++ book function
+def doubanCPlusPlusFun():
   offset = [0, 20, 40, 60, 80, 100, 120, 140, 160, 180, 200]  # offset list for douban book C++ tag pages
   for offset_value in offset: # loop in every page
     url = 'https://book.douban.com/tag/' + urllib.request.quote('C++') + '?start=' + str(offset_value) + '&type=T' # building a url for current page
@@ -76,3 +76,7 @@ if __name__ == '__main__':
       time.sleep(np.random.rand()*5) # sleep with random time
     except:
       print('error')
+
+# main function
+if __name__ == '__main__':
+  doubanCPlusPlusFun()
