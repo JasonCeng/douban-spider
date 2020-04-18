@@ -59,3 +59,923 @@ C++ 程序设计教程
 C++程序设计教程           : （第二版）
 C++面向对象程序设计           : C++面向对象程序设计
 0 bug           : C/C++商用工程之道
+C++ Templates           : The Complete Guide
+Effective STL中文版           : 50条有效使用STL的经验
+C++ Coding Standards           : 101 Rules, Guidelines, and Best Practices
+C++网络编程（卷2）           : 基于ACE和框架的系统化复用
+C++模板元编程
+Windows核心编程(第5版)           : 微软技术丛书
+我的第一本C++书
+A Tour of C++
+C++面向对象程序设计           : C++面向对象程序设计
+C Primer Plus（第6版）中文版           : 第六版
+The C++ Standard Library           : A Tutorial and Reference
+C++编程思想（两卷合订本）
+Exceptional C++（中文版）           : 47个C++工程难题、编程问题和解决方案
+Essential C++
+C++并发编程实战
+C++语言的设计和演化(英文版)
+C++ 程序设计教程
+C++语言99个常见编程错误           : 避免编码和设计中的常见问题
+C++程序设计原理与实践           : C++之父最新作品
+COM本质论
+Accelerated C++
+写给大家看的C++书
+Thinking in C++, Volume 2           : Practical Programming
+Large-Scale C++ Software Design
+算法I～IV（C++实现）――基础、数据结构、排序和搜索（第三版）
+C++高级编程
+编写高质量代码           : 改善C++程序的150个建议
+程序设计实践
+More Exceptional C++（中文版）           : 40个新的工程难题、编程疑问及解决方法
+ACE程序员指南           : 网络与系统编程的实用设计模式
+C++标准库           : 自学教程与参考手册
+标准模板库自修教程与参考手册(STL进行C++编程第2版)
+More Effective C++中文版
+More Effective C++
+More Exceptional C++           : 40 New Engineering Puzzles, Programming Problems, and Solutions
+C++ Templates中文版
+C++大学教程
+Essential C++
+C++ Concurrency in Action           : 2nd Edition
+数据结构与算法分析           : C++描述
+C++ Primer 第4版 评注版
+C++必知必会
+C++ 程序设计语言（第 1 - 3 部分）（原书第 4 版）
+C++编程规范
+C++ Template Metaprogramming           : Concepts, Tools, and Techniques from Boost and Beyond
+高质量程序设计指南
+C++游戏编程入门教程
+C++ GUI Programming with Qt 4 (2nd Edition) (Prentice Hall Open Source Software Development Series)
+编程的本质           : 英文版
+Programming           : Principles and Practice Using C++
+C++高级编程           : 第2版
+大规模c++程序设计
+C++ STL 中文版
+DirectX 9.0 3D游戏开发编程基础
+易学C++
+The  C Programming Language           : -
+C++编程惯用法
+C++语言导学
+C++编程思想第2卷
+C++跨平台开发技术指南
+C++ Primer Plus           : 6th Edition
+21天学通C++           : 第五版
+Elements of Programming
+Imperfect C++中文版
+代码揭秘
+Accelerated C++中文版通过示例进行编程实践           : 通过示例进行编程实践
+后台开发：核心技术与应用实践
+C++编程剖析           : 问题、方法和设计准则
+C++ Templates中文版
+C++并行与分布式编程
+Visual C++ 技术内幕（第四版）
+逆向工程核心原理
+Ruminations on C++           : A Decade of Programming Insight and Experience
+高质量程序设计指南           : C++/C语言
+数据结构、算法与应用           : C++语言描述
+C++编程风格
+Imperfect C++中文版           : Practical Solutions for Real-Life Programming
+Windows via C/C++
+Effective STL
+Exceptional C++ Style中文版           : 40个新的工程难题、编程问题及解决方案
+Visual C++2010入门经典
+程序员的自我修养           : 链接、装载与库
+C程序设计语言           : 第 2 版·新版
+Generic Programming and the STL           : Using and Extending the C++ Standard Template Library
+捉虫历险记
+C++ Primer习题集（第5版）
+Win32多线程程序设计           : 线程完全手册
+Effective C++ Third Edition
+C专家编程
+Algorithms in C++, Parts 1-4           : Fundamentals, Data Structure, Sorting, Searching, Third Edition
+深度探索C++对象模型(影印版)
+More Effective C++中文版
+C++ Templates           : The Complete Guide
+C++数据结构与算法
+深入应用C++11           : 代码优化与工程级应用
+C++应用程序性能优化
+数据结构与STL
+MFC Windows程序设计
+C++探秘           : 68讲贯通C++
+Exceptional C++ Style           : 40 New Engineering Puzzles, Programming Problems, and Solutions
+Exceptional C++中文版
+Qt高级编程
+C专家编程
+数据结构与算法分析（C++版）（第二版）           : 国外计算机科学教材系列
+C++ Primer（第4版）习题解答
+C++多核高级编程
+设计模式           : 可复用面向对象软件的基础
+剑指Offer           : 名企面试官精讲典型编程题
+Boost程序库完全开发指南           : 深入C++“准”标准库
+C++设计模式           : 基于Qt 4开源跨平台开发框架
+零起点学通C++
+MFC Windows程序设计
+Effective C++           : 50 Specific Ways to Improve Your Programs and Design (2nd Edition)
+C++ How to Program
+C陷阱与缺陷           : C语言调试指南
+0 bug           : C/C++商用工程之道
+C++代码设计与重用
+多态与虚拟           : 物件导向的精髓
+Advanced C++中文版
+C++编程惯用法           : 高级程序员常用方法和技巧
+C++面向对象高效编程(第2版)
+C++性能优化指南
+数据结构、算法与应用（原书第2版）           : C++语言描述
+Visual C++2008入门经典
+C/C++深层探索
+Modern C++ Programming with Test-Driven Development           : Code Better, Sleep Better
+C++应用程序性能优化
+Beyond the C++ Standard Library           : An Introduction to Boost
+C++编程风格
+C++STL开发技术导引
+Qt Creator快速入门           : Qt Creator快速入门
+C++程序设计
+C++ FAQs
+Imperfect C++           : Practical Solutions for Real-Life Programming
+C++ Primer Plus
+Boost程序库探秘           : 深度解析C++准标准库
+代码大全（第2版）
+Boost.Asio C++ Network Programming
+Modeling Derivatives in C++ (Wiley Finance)
+C++标准库扩展权威指南           : (C++设计新思维)
+Modeling Derivatives in C++ (Wiley Finance)
+COM原理与应用
+A Tour of C++
+泛型编程与STL
+Thinking in C++ 中文版           : Second Edition
+C和C++安全编码
+OpenCV2计算机视觉编程手册
+好学的C++（第2版）
+C++编程调试秘笈
+C++代码设计与重用
+Programming           : Principles and Practice Using C++
+C++大学教程
+Microsoft Visual C++.NET技术内幕（第6版）
+C++语言核心
+C++ Qt设计模式
+Absolute C++中文版           : 完美的C++教程
+道法自然           : 面向对象实践指南
+C++ Common Knowledge           : Essential Intermediate Programming
+From Mathematics to Generic Programming
+C++程序设计陷阱
+编程珠玑           : 第2版
+Essential C++
+数学与泛型编程           : 高效编程的奥秘
+Boost程序库完全开发指南（第3版）           : 深入C++“准”标准库
+C++ How to Program (5th Edition)
+C++游戏编程
+精通Qt4编程
+深入实践Boost           : Boost程序库开发的94个秘笈
+编程原本
+从缺陷中学习C/C++
+C陷阱与缺陷
+C++图形与游戏编程基础
+OpenCV 2 Computer Vision Application Programming Cookbook
+C++ Primer           : 第3版
+C++编码规范
+Introduction to 3D Game Programming with DirectX 11
+王道程序员求职宝典
+More Exceptional C++
+数据结构           : 用面向对象方法与C++语言描述
+每天10分钟轻松掌握C++
+C++ 编程规范           : 101個準則、指導方針，和最佳實踐
+C++网络编程 卷2
+虚拟机的设计与实现
+算法之美           : 隐匿在数据结构背后的原理（C++版）
+数据结构C++语言描述           : ——应用标准模板库
+ZeroMQ           : Messaging for Many Applications
+编程之美           : 微软技术面试心得
+Windows程序设计
+深入实践C++模板编程
+C++网络编程.卷1-运用ACE和模式消除复杂性
+Efficient C++           : Performance Programming Techniques
+C和指针
+算法导论（原书第2版）
+Effective Modern C++           : 改善C++11和C++14的42个具体做法(影印版)(英文版)
+COM技术内幕-微软组件对象模型
+The Boost Graph Library           : User Guide and Reference Manual
+C++编程规范           : 101条规则、准则与最佳实践
+C和C++安全编码
+21天学通C++
+Advanced C++ Programming Styles and Idioms
+Advanced C++ Programming Styles and Idioms
+C++ Templates
+Effective Modern C++           : 改善C++11和C++14的42个具体做法(影印版)(英文版)
+C++ Templates（第2版 英文版）
+C和指针
+cocos2d-x手机游戏开发           : 跨iOS、Android和沃Phone平台
+Memory as a Programming Concept in C and C++
+C++设计新思维
+C++编程艺术           : C++编程艺术
+21天学通C语言
+现代C++探秘           : 编码、工程与科研必修（基于C++ 14）
+深入解析MFC
+Functional Programming in C++           : How to improve your C++ programs using functional techniques
+C++面向对象程序设计
+C++覆辙录
+黑客免杀攻防
+C++数据结构原理与经典问题求解
+C++ 程序设计语言（第 4 部分：标准库）（原书第 4 版）           : 第4部分：标准库
+Exceptional C++
+金融衍生品建模           : 基于Matlab、C++和Excel工具
+面向对象编程C++和Java比较教程           : 面向对象编程C++和Java比较教程
+金融衍生品建模           : 基于Matlab、C++和Excel工具
+C++大学教程
+C++经典问答
+STL扩展技术手册 卷I:集合和迭代器
+重构           : 改善既有代码的设计
+C程序设计语言
+Advanced C++ Metaprogramming
+C++模板元编程实战           : 一个深度学习框架的初步实现
+You Can Do It(附光盘) (平装)           : C++编程新手互动教程
+新标准C++程序设计教程           : 新标准C++程序设计教程
+Big C++中文版
+C++入门经典
+C和指针
+21天学通C++
+Advanced C and C++ Compiling
+C/C++嵌入式系统编程
+A Complete Guide to Programming in C++
+深入理解计算机系统
+C++游戏开发
+C++程序设计语言题解
+C/C++程序员实用大全           : C/C++最佳编程指南
+C++编程思想 第二卷 实用编程技术（英文版）
+Optimized C++
+C++实践之路
+Visual C++技术内幕
+跨平台软件开发           : C&C++
+剑指Offer           : 名企面试官精讲典型编程题
+C++数值算法（第二版)
+重构           : 改善既有代码的设计
+Programming Visaual C++6.0 技术内幕(第五版)(修订版)
+数据结构与算法分析(C++版)(第3版)
+Visual C++项目开发案例全程实录
+Extended STL, Volume 1           : Collections and Iterators
+STL扩展技术手册卷I           : Extended STL,Volume1:Collections and Iterators
+C++ Cookbook
+C++程序设计(原理与实践基础篇原书第2版)/计算机科学丛书           : 原理与实践（基础篇）
+Intel Threading Building Blocks编程指南
+ACE技术内幕           : 深入解析ACE架构设计与实现原理
+UNIX网络编程           : 第1卷:套接口API(第3版)
+STL扩展技术手册卷I           : Extended STL,Volume1:Collections and Iterators
+C++实践之路
+C++编程你也行
+C++数值算法（第二版)
+跨平台软件开发           : C&C++
+C++入门经典
+C++ TEMPLATES全覽           : The Complete Guide
+Algorithms in C++ Part 5           : Graph Algorithms
+Visual C++ 2010开发权威指南
+从新手到高手C++全方位学习
+高质量程序设计指南(第2版)
+C++标准库教程
+设计模式           : 可复用面向对象软件的基础
+Discovering Modern C++           : An Intensive Course for Scientists, Engineers, and Programmers
+C++程序设计教程
+Windows核心编程
+C++入门经典           : 第5版
+C++沉思录           : 英文版
+C++黑客编程揭秘与防范
+C++参考大全
+Node.js：来一打 C++ 扩展           : 来一打 C++ 扩展
+Algorithms in C++ Part 5           : Graph Algorithms
+C++类和数据结构
+C++标准库教程
+高级C/C++编译技术
+C++入门经典           : 第5版
+C++沉思录           : 英文版
+C++程序设计教程
+C++参考大全
+Programming Windows with MFC, Second Edition
+数据结构与算法
+WINDOWS游戏编程大师技巧<第2版>(附光盘)
+C++ Network Programming, Volume I           : Mastering Complexity with ACE and Patterns
+Memory Management Algorithms And Implementation In C/C++
+C++权威教程（第6版）
+The Boost C++ Libraries
+学习OpenCV（中文版）           : 学习OpenCV
+C++简明教程
+你必须知道的222个C++语言问题
+The Art of C++
+Absolute C++
+你必须知道的222个C++语言问题
+C++程序设计实践与技巧 测试驱动开发
+C++ Gotchas
+C++简明教程
+数据结构与算法分析           : C++语言描述（第四版）
+UNIX编程艺术
+Windows核心编程
+C++ Network Programming, Volume I           : Mastering Complexity with ACE and Patterns
+C++权威教程（第6版）
+数据结构与算法分析           : C语言描述
+数据结构与算法
+C++语言程序设计
+Programming Windows with MFC, Second Edition
+Financial Instrument Pricing Using C++
+程序员修炼之道           : 从小工到专家
+The Art of C++
+Visual C++ MFC编程实例
+深入理解计算机系统（原书第2版）
+C++STL基础及应用
+代码整洁之道
+C++STL基础及应用
+C++程序设计教程
+Visual C++经典游戏程序设计
+算法Ⅰ~Ⅳ(C++实现):基础、数据结构、排序和搜索           : (影印版)
+老码识途           : 从机器码到框架的系统观逆向修炼之路
+STL Tutorial and Reference Guide           : C++ Programming with the Standard Template Library (2nd Edition) (Addison-Wesley Professional Co
+Applied C++中文版
+The Annotated C++ Reference Manual
+Visual C++ MFC编程实例
+STL Tutorial and Reference Guide           : C++ Programming with the Standard Template Library (2nd Edition) (C++ in Depth Series)
+Applied C++中文版
+The C++ Programming Language
+Beginning C++ Through Game Programming
+Exceptional C++ Style
+Data Structures and Algorithm Analysis in C++
+C和C++代码精粹
+C++ from the Ground Up, Third Edition
+深入理解计算机系统（原书第2版）
+Linux高性能服务器编程
+Data Structures and Algorithm Analysis in C++
+算法笔记上机训练实战指南
+C和C++代码精粹
+STL Tutorial and Reference Guide           : C++ Programming with the Standard Template Library (2nd Edition) (Addison-Wesley Professional Co
+C++STL基础及应用
+C++面向对象程序设计           : 基础、数据结构与编程思想
+Seamless R and C++ Integration with Rcpp
+Visual C++经典游戏程序设计
+Standard C++ IOStreams and Locales           : Advanced Programmer's Guide and Reference
+编程珠玑(第二版)
+C/C++程序员面试指南
+C++程序设计           : C++程序设计
+Debug Hacks中文版           : 深入调试的技术和工具
+通过游戏编程实战教新手学C++编程
+C++编程基础           : 标准库编程
+Imperfect C++
+C++编程规范
+C++ GUI Qt 4编程
+实用C++调试指南
+C++/CLI in Action (Manning)
+C++/CLI in Action (Manning)
+C++标准模板库编程实战
+Imperfect C++
+Standard C++ IOStreams and Locales           : Advanced Programmer's Guide and Reference
+C++ GUI Qt 4编程
+实用C++调试指南
+编程珠玑(第二版)
+Python源码剖析           : 深度探索动态语言核心技术
+通过游戏编程实战教新手学C++编程
+C/C++程序员面试指南
+Problem Solving with C++
+C++编程规范
+C/C++程序员生存手册
+Programming with POSIX® Threads
+Getting Started with LLVM Core Libraries
+C++STL程序员开发指南
+Writing Solid Code
+Visual C++ 2005入门经典
+C++项目实战           : 解释程序的面向对象设计与实现
+C++11/14高级编程：Boost程序库探秘（第3版）
+Effective C++
+Data Structures and Algorithms in C++
+Getting Started with LLVM Core Libraries
+Multi-Paradigm Design for C++
+程序设计基础(第2版)
+C++项目实战           : 解释程序的面向对象设计与实现
+C++11/14高级编程：Boost程序库探秘（第3版）
+Professional C++
+C++程序设计(原理与实践进阶篇原书第2版)/计算机科学丛书           : 原理与实践（进阶篇）
+精通Matlab与C/C++混合程序设计
+C++ Gotchas           : Avoiding Common Problems in Coding and Design
+Mastering CMake
+C++STL程序员开发指南
+Writing Solid Code
+Programming with POSIX® Threads
+C++入门经典
+Engineering and Scientific C++           : An Introduction with Advanced Techniques and Examples
+数据结构与算法分析
+冒号课堂           : 编程范式与OOP思想
+Visual C++6.0学习教程
+C++教程
+数据结构与算法分析
+Visual C++6.0学习教程
+C++高级进阶教程
+C++ Primer 3/e中文版--2001修訂版
+Engineering and Scientific C++           : An Introduction with Advanced Techniques and Examples
+C++大学教程           : 第4版
+精通.NET互操作
+数据结构与算法分析
+C++大学教程（第九版）
+计算机算法设计与分析
+面向对象程序设计基础
+Thinking in C++
+工程问题C++语言求解
+Visual C++ 2012入门经典           : 超级畅销书《C语言入门经典（第4版）》作者、编程导师霍尔顿（Ivor Horto
+冒号课堂           : 编程范式与OOP思想
+现代C++程序设计
+C++ Programming Style
+零基础学C++
+Programming Windows
+C++网络编程（卷2）           : 基于ACE和框架的系统化复用
+Programming Windows
+C++教程
+C++大学教程           : 第4版
+CMake Cookbook           : Building, testing, and packaging modular software with modern CMake
+数据结构与算法分析
+30天学通Visual C++项目案例开发
+C++面向对象程序设计
+Engineering and Scientific C++           : An Introduction with Advanced Techniques and Examples
+C++17 In Detail           : Learn the Exciting Features of The New C++ Standard!
+C++ Primer 3/e中文版--2001修訂版
+Visual C++/Turbo C串口通信编程实践
+C++高级进阶教程
+C++ Primer 4/e 中文版
+Introduction to the Boost C++ Libraries; Volume I - Foundations
+C++大学教程（第九版）
+Windows核心编程           : 第5版·英文版
+C程序设计语言           : 习题解答
+Quantitative Finance           : An Object-Oriented Approach in C++
+Visual C++网络编程经典案例详解
+Standard C++ Bible (Bible)
+Starting Out with C++ from Control Structures to Objects
+并发的艺术
+Quantitative Finance           : An Object-Oriented Approach in C++
+标准C++与面向对象程序设计
+C程序设计语言           : 习题解答
+Effective Concurrency
+Data Structures Using C++
+Numerical Recipes in C++           : The Art of Scientific Computing
+WinSock网络编程经络
+Game Coding Complete
+Ivor Horton's Beginning Visual C++ 2005 (Programmer to Programmer)
+C++程式語言經典本（經典增訂版）
+Visual C++项目开发全程实录
+游戏编程精粹6
+Visual C++网络编程经典案例详解
+C语言接口与实现
+Windows程序调试
+C程序设计           : 新世纪计算机基础教育丛书
+C++ Primer Plus（上、下册）
+C++编程关键路径
+Effective Concurrency
+C++程式語言經典本（經典增訂版）
+C语言接口与实现
+Visual C++项目开发全程实录
+高性能CUDA应用设计与开发           : 方法与最佳实践
+游戏编程精粹6
+C++ Primer Plus（上、下册）
+Learning Boost C++ Libraries
+C程序设计语言           : 习题解答
+Standard C++ Bible (Bible)
+代码优化           : 有效使用内存
+C语言解析教程(原书第4版)
+Data Structures Using C++
+Windows程序调试
+WinSock网络编程经络
+Numerical Recipes in C++           : The Art of Scientific Computing
+C++ In-Depth Box Set
+C++多线程编程实战
+并发的艺术
+C++ Pointers and Dynamic Memory Management
+C++ In-Depth Box Set
+Starting Out with C++ from Control Structures to Objects
+代码优化           : 有效使用内存
+Code Complete           : A Practical Handbook of Software Construction
+Game Coding Complete
+Quantitative Finance           : An Object-Oriented Approach in C++
+游戏编程精粹6
+高性能CUDA应用设计与开发           : 方法与最佳实践
+ATL Internals           : Working with ATL 8
+编写可读代码的艺术
+Effective Concurrency
+数据结构与算法分析（C++版）
+Essential COM
+WinSock网络编程经络
+Visual C++网络编程经典案例详解
+C++多线程编程实战
+Data Structures Using C++
+Windows 程序设计：第5版
+Standard C++ Bible (Bible)
+STL源碼剖析THE ANNOTATED STL SOURCESING SGI STL)
+C++ STL标准程序库开发指南           : C++ STL标准程序库开发指南
+提高C++性能的编程技术
+C语言解析教程(原书第4版)
+Windows程序调试
+Quantitative Finance           : An Object-Oriented Approach in C++
+C程序设计           : 新世纪计算机基础教育丛书
+游戏编程精粹6
+嵌入式C/C++系统工程师实训教程
+The Pragmatic Programmer           : From Journeyman to Master
+Standard C++ Bible (Bible)
+Data Structures Using C++
+Generative Programming           : Methods, Tools, and Applications
+面向模式的软件体系结构 卷2:用于并发和网络化对象的模式
+Introduction to Design Patterns in C++ with Qt
+数据结构(C++语言描述)
+数据结构与算法           : C++版
+Sams Teach Yourself C++ in One Hour a Day
+Microsoft Visual C++ Windows Applications by Example           : Code and explanation for real-world MFC C++ Applications
+Guide to Scientific Computing in C++
+数据结构(C++语言描述)
+Microsoft Visual C++ Windows Applications by Example           : Code and explanation for real-world MFC C++ Applications
+C++ How to Program (5th Edition) (How to Program)
+Qt5开发及实例
+Qt4图形设计与嵌入式开发
+24学时攻克C++
+Programming Applications for Microsoft Windows
+Introduction to Design Patterns in C++ with Qt
+C++程序设计教程
+Data Structures and Problem Solving Using C++
+C++语言程序设计
+Safe C++           : How to avoid common mistakes
+C++程序设计
+C和C++代码精粹
+面向模式的软件体系结构 卷2:用于并发和网络化对象的模式
+数据结构与算法           : C++版
+数值方法
+3D游戏编程大师技巧（上下册）
+Boost C++ Application Development Cookbook
+Qt5开发及实例（第2版）
+Guide to Scientific Computing in C++
+3D游戏编程大师技巧（上下册）
+Programming Applications for Microsoft Windows
+Qt5开发及实例
+Qt4图形设计与嵌入式开发
+C++ Strategies and Tactics (Addison-Wesley Professional Computing Series)
+Starting Out with C++           : From Control Structures through Objects (6th Edition) (Starting Out With...)
+Linux C/C++入门与进阶
+标准C++开发入门与编程实践
+Large-Scale C++  Volume I           : Process and Architecture
+C++ In Action           : Industrial Strength Programming Techniques
+Qt5开发及实例（第2版）
+Visual C++数字图像处理典型案例详解
+C++语言程序设计
+More C++ Gems
+Qt及Qt Quick开发实战精解           : Qt及Qt Quick开发实战精解
+You Can Do It!           : A Beginners Introduction to Computer Programming
+C++程序设计教程
+C++工程程序设计
+Introduction to Design Patterns in C++ with Qt
+Qt5开发及实例（第2版）
+C++实践之路
+STL高效编程
+The Modern C++ Challenge           : Become an expert programmer by solving real-world problems
+Visual C++数字图像模式识别典型案例详解
+C++程序设计           : 基础、编程抽象与算法策略
+C++工程程序设计
+C++多范型设计
+Large-Scale C++  Volume I           : Process and Architecture
+Sams Teach Yourself C++ in 24 Hours, Starter Kit (4th Edition) (Sams Teach Yourself)
+Visual C++数字图像处理典型案例详解
+C++程序设计教程
+Visual C++面向对象与可视化程序设计习题解析与编程实例
+Cython           : A Guide for Python Programmers
+C++ In Action           : Industrial Strength Programming Techniques
+C++ How to Program (5th Edition) (How to Program)
+Data Structures with C++ Using STL
+深入分析GCC
+Who's Afraid of C++           : Programming Primer for the PC (Who's Afraid Of?)
+The Elements of C++ Style
+STL高效编程
+面向模式的软件体系结构 卷2:用于并发和网络化对象的模式
+You Can Do It!           : A Beginners Introduction to Computer Programming
+Qt5开发及实例
+C++ Primer Plus (4th Edition)
+Modeling Derivatives Applications in Matlab, C++, and Excel
+Visual C++数字图像模式识别典型案例详解
+Visual C++/MATLAB图像处理与识别实用案例精选
+Game Engine Architecture, Second Edition
+Visual C++数字图像处理典型案例详解
+Cython           : A Guide for Python Programmers
+Microsoft Visual C++ Windows Applications by Example           : Code and explanation for real-world MFC C++ Applications
+数值方法
+C++工程程序设计
+C++数据结构与程序设计
+计算机程序的构造和解释           : 原书第2版
+修改代码的艺术
+Professional C++ (Programmer to Programmer)
+C++ Primer
+Inside Visual C++ 6.0. (German Edition)
+Inside Visual C++ 6.0. (German Edition)
+设计模式之禅（第2版）
+Cocos2d-x高级开发教程           : 制作自己的《捕鱼达人》
+Qt程序设计
+Visual C++从入门到精通
+Visual Insights           : A Practical Guide to Making Sense of Data
+D程序设计语言
+C++ Primer
+C程序设计(第四版)
+C/C++图像处理编程
+标准C++编程宝典
+现代汉语自动分析           : VisualC++实现
+数据结构算法与应用
+你必须知道的204个Visual C++开发问题
+C++           : A Beginner's Guide, Second Edition
+C++           : The Complete Reference, 4th Edition
+Visual C++项目开发实践
+C++编程
+泛型程式設計與STL           : 使用并填充 C++ Standard Template Library
+数字图像处理与机器视觉           : Visual C++与Matlab实现
+C++ Primer
+现代汉语自动分析           : VisualC++实现
+C程序设计(第四版)
+Qt on Android 核心编程
+Qt程序设计
+Visual C++项目开发实践
+Visual C++数字图像识别技术典型案例
+Visual C++从入门到精通
+Visual Insights           : A Practical Guide to Making Sense of Data
+Visual C++网络高级编程
+Inside Visual C++ 6.0. (German Edition)
+数字图像处理与机器视觉           : Visual C++与Matlab实现
+C++程序设计教程习题答案和实验指导
+标准C++编程宝典
+C/C++图像处理编程
+中文印刷体文档识别技术
+KDE2/Qt编程宝典(附光盘) (平装)
+你必须知道的204个Visual C++开发问题
+The Practice of Programming
+Visual C++ 2013入门经典（第7版）
+标准C++编程宝典
+C/C++图像处理编程
+Game Coding Complete, Third Edition
+C++程序设计教程习题答案和实验指导
+OpenCV教程           : 基础篇
+数字图像处理与机器视觉           : Visual C++与Matlab实现
+C++程序设计:程序设计和面向对象设计入门(第3版)
+Visual C++ 2013入门经典（第7版）
+无线通信系统仿真           : C++实用模型
+OpenGL ES 3.0编程指南
+C++编程
+STL for C++ Programmers
+游戏之旅           : 我的编程感悟
+Mathematical Objects in C++           : Computational Tools in A Unified Object-Oriented Approach
+C++           : Bjarne Stroustrup, Comparison of Java and C++, Template, Header file, Andrei Alexandrescu, C++0x
+C++ for Engineers and Scientists
+数据结构与问题求解
+More Effective C++ 國際中文版
+UNIX网络编程 卷2           : 进程间通信
+C & C++ Code Capsules           : A Guide for Practitioners
+Advanced Qt Programming           : Creating Great Software with C++ and Qt 4
+C++ 程序设计语言（第 4 部分：标准库）（英文版·第 4 版）
+Windows系统编程
+C++ for Engineers and Scientists
+Visual C++从入门到精通
+C++程序设计:程序设计和面向对象设计入门(第3版)
+C程序设计(第四版)
+Visual C++项目开发实践
+精通Qt4编程
+Visual Insights           : A Practical Guide to Making Sense of Data
+C标准库           : C标准库“圣经”
+Object-Oriented Programming in C++
+C++11 for Programmers
+精通 Visual C++ 图像编程
+Visual C++课程设计案例精编
+Cocos2d-x高级开发教程           : 制作自己的《捕鱼达人》
+Visual C++界面编程技术
+Linux网络编程
+More Effective C++ 國際中文版
+Microsoft SQL Server 2008技术内幕           : T-SQL语言基础
+Advanced Qt Programming           : Creating Great Software with C++ and Qt 4
+C++ for Engineers and Scientists
+Mathematical Objects in C++           : Computational Tools in A Unified Object-Oriented Approach
+Object-Oriented Programming With ANSI-C
+现代汉语自动分析           : VisualC++实现
+Qt程序设计
+算法基础与在线实践(北京大学程序设计与算法专项课程系列教材)
+Inside Visual C++           : With CDROM
+C/C++图像处理编程
+Programming Abstractions in C           : A Second Course in Computer Science
+Inside Visual C++ 6.0. (German Edition)
+Monte Carlo Frameworks           : Building Customisable High-performance C++ Applications
+Visual Insights           : A Practical Guide to Making Sense of Data
+Data Clustering in C++           : An Object-Oriented Approach
+C++           : A Beginner's Guide, Second Edition
+C++           : The Complete Reference, 4th Edition
+C/C++学习指南
+OpenCV教程           : 基础篇
+TCP/IP高效编程           : 改善网络程序的44个技巧
+TCP/IP详解 卷1：协议
+数据结构与STL
+编程匠艺           : 编写卓越的代码
+C/C++图像处理编程
+标准C++编程宝典
+Windows系统编程
+Visual C++网络高级编程
+泛型程式設計與STL           : 使用并填充 C++ Standard Template Library
+C++程序设计:程序设计和面向对象设计入门(第3版)
+Visual C++数字图像识别技术典型案例
+Tom Swan's GNU C++ for Linux (Professional Dev. Guide)
+Introduction to the Boost C++ Libraries; Volume II - Advanced Libraries
+Data Clustering in C++           : An Object-Oriented Approach
+征服C/C++企业软件开发核心技术
+OpenCV教程           : 基础篇
+C语言项目案例分析           : C语言项目案例分析
+C++面向对象程序设计           : 基于设计项目的方法
+C++程序设计
+Introduction To 3D Game Programming With Directx 9.0
+深入解析ATL
+C++ Builder 程序设计轻松上手
+OpenGL超级宝典
+深入解析ATL
+C++程序设计实践指导           : C++程序设计实践指导
+事务性COM+编程
+C++语言程序设计教程与实验           : C++语言程序设计教程与实验
+Borland C＋＋ Builder入门与提高
+Introduction To 3D Game Programming With Directx 9.0
+深入浅出设计模式（影印版）
+Visual C++编程深入引导
+C++ GUI Programming with Qt 4
+OpenCL in Action           : How to Accelerate Graphics and Computations
+C语言项目案例分析           : C语言项目案例分析
+Programming Pearls
+Standard C++ IOStreams and Locales           : Advanced Programmer's Guide and Reference
+C++语言程序设计
+THINKING IN C++V2
+对象揭秘
+C++程序设计
+C++编程
+CG教程-可编程实时图形权威指南
+Introduction To 3D Game Programming With Directx 9.0
+Data Structure
+C++编程
+Data Structures & Algorithm Analysis in C++
+Absolute C++ (2nd Edition) (Savitch Series)
+Absolute C++
+白盒测试之道           : C++test
+Android系统源代码情景分析
+packetC Programming
+Visual C++编程深入引导
+C++ GUI Programming with Qt 4
+暗时间           : Dark Time
+深入浅出设计模式（影印版）
+CG教程-可编程实时图形权威指南
+The C++ Programming Language
+事务性COM+编程
+深入解析ATL
+C++ Builder 程序设计轻松上手
+Using STL
+Data Structures and Algorithms in C++
+C++面向对象程序设计           : 基于设计项目的方法
+Foundations of Qt Development           : of Qt Development
+Using STL
+Data Structure
+THINKING IN C++V2
+Visual C++ 6.0 程序设计自学教程
+Visual C++2010程序设计案例教程           : Visual C++2010程序设计案例教程
+OpenCL in Action           : How to Accelerate Graphics and Computations
+Absolute C++
+Data Structures & Algorithm Analysis in C++
+C++Primer Answer Book题解
+Clean Code           : A Handbook of Agile Software Craftsmanship
+The C++ Programming Language
+Virtual Machine Design and Implementation C/C++
+Data Structures and Algorithms in C++
+大话数据结构
+Standard C++ IOStreams and Locales           : Advanced Programmer's Guide and Reference
+OpenGL超级宝典
+C++语言程序设计
+Parallel Scientific Computing in C++ and MPI           : A Seamless Approach to Parallel Algorithms and their Implementation
+Clean Code           : A Handbook of Agile Software Craftsmanship
+C++Primer Answer Book题解
+Standard C++ IOStreams and Locales           : Advanced Programmer's Guide and Reference
+C语言项目案例分析           : C语言项目案例分析
+C++语言程序设计
+Open Data Structures           : An Introduction
+Android系统源代码情景分析
+Using STL
+Virtual Machine Design and Implementation C/C++
+Parallel Scientific Computing in C++ and MPI           : A Seamless Approach to Parallel Algorithms and their Implementation
+Foundations of Qt Development           : of Qt Development
+暗时间           : Dark Time
+实战突击
+C++专家导引
+OpenCL in Action           : How to Accelerate Graphics and Computations
+Absolute C++ (2nd Edition) (Savitch Series)
+Secure Coding in C and C++
+C++ for Mathematicians           : An Introduction for Students and Professionals
+Programming Pearls
+标准C++程序设计教程
+C++程序设计实践指导           : C++程序设计实践指导
+OpenGL超级宝典
+计算机图形学实践教程
+Standard C++ IOStreams and Locales           : Advanced Programmer's Guide and Reference
+packetC Programming
+CG教程-可编程实时图形权威指南
+Open Data Structures           : An Introduction
+C++专家导引
+OpenCL in Action           : How to Accelerate Graphics and Computations
+Parallel Scientific Computing in C++ and MPI           : A Seamless Approach to Parallel Algorithms and their Implementation
+Foundations of Qt Development           : of Qt Development
+C语言项目案例分析           : C语言项目案例分析
+Data Structure
+Absolute C++ (2nd Edition) (Savitch Series)
+Visual C++2010程序设计案例教程           : Visual C++2010程序设计案例教程
+C++ for Mathematicians           : An Introduction for Students and Professionals
+Programming Pearls
+C++ GUI Programming with Qt 4
+Visual C++编程篇
+C++面向对象程序设计           : 基于设计项目的方法
+因特网应用编程
+C++程序设计实践指导           : C++程序设计实践指导
+C语言项目案例分析           : C语言项目案例分析
+C++Primer Answer Book题解
+Foundations of Qt Development           : of Qt Development
+Parallel Scientific Computing in C++ and MPI           : A Seamless Approach to Parallel Algorithms and their Implementation
+packetC Programming
+Secure Coding in C and C++
+标准C++程序设计教程
+OpenCL in Action           : How to Accelerate Graphics and Computations
+C++程序设计
+对象揭秘
+驯服烂代码           : 在编程操练中悟道
+C++编程
+C++面向对象程序设计           : 基于设计项目的方法
+C++Builder程序员成长攻略
+Visual C++ 6.0 程序设计自学教程
+C++ for Mathematicians           : An Introduction for Students and Professionals
+Introduction To 3D Game Programming With Directx 9.0
+Virtual Machine Design and Implementation C/C++
+Speaking of C++           : Practical Advice for Professional Code Developers
+Data Structures & Algorithm Analysis in C++
+Fundamentals of Data Structures in C++
+Absolute C++
+Visual C++编程篇
+C++面向对象程序设计           : 基于设计项目的方法
+Introduction To 3D Game Programming With Directx 9.0
+C++程序设计实践指导           : C++程序设计实践指导
+因特网应用编程
+Secure Coding in C and C++
+THINKING IN C++V2
+大学C++程序设计教程/高等学校教材
+C++语言程序设计教程与实验           : C++语言程序设计教程与实验
+Foundations of Qt Development           : of Qt Development
+Parallel Scientific Computing in C++ and MPI           : A Seamless Approach to Parallel Algorithms and their Implementation
+C++程序设计
+Visual C++ 6.0程序设计与开发技术大全
+Virtual Machine Design and Implementation C/C++
+C语言项目案例分析           : C语言项目案例分析
+Linux软件工程师
+Visual C++开发GIS系统
+C++面向对象程序设计
+21天学通C++
+Visual C++程序员成长攻略
+C++Builder程序员成长攻略
+C++语言教程           : C++语言教程
+Visual C++编程篇
+C/C++程序设计实验与习题指导
+Visual C++ 6.0程序设计与开发技术大全
+Absolute C++
+實戰C++           : 8個別具特色的實作經驗
+C++程序设计与应用
+Using STL
+The Clean Coder           : A Code of Conduct for Professional Programmers
+精通DirectX 3D图形与动画程序设计
+实战突击
+The C++ Programming Language
+Data Structures & Algorithm Analysis in C++
+Clean Code           : A Handbook of Agile Software Craftsmanship
+C++ for Mathematicians           : An Introduction for Students and Professionals
+计算机图形学实践教程
+C++语言简明教程
+别样诠释           : 一个Visual C++老鸟10年学习与开发心得
+系统程序员成长计划
+3D游戏编程大师技巧
+软件研发
+金融资产的定价理论与数值计算
+GCC完全指南
+The Clean Coder           : A Code of Conduct for Professional Programmers
+Visual C++代码参考与技巧大全
+CG教程-可编程实时图形权威指南
+计算机图形学
+精通Visual C++数字图像模式识别技术及工程实践
+C语言核心技术
+C++应用程序设计
+VisualC++项目案例导航
+Applied C++           : Techniques for Building Better Software
+Programming in C           : 3rd Edition
+Advanced Quantitative Finance with C++           : Create and implement mathematical models in C++ using Quantitative Finance
+Absolute C++
+Data Structures for Game Programmers  with CD-ROM
+Introduction to 3D Game Programming with DirectX 10
+Practical C++ Financial Programming
+Boost.Asio C++ Network Programming Cookbook
+VTK图形图像开发进阶
+Windows内核情景分析           : 采用开源代码ReactOS
+Visual C++2008程序设计完全自学教程
+programming and problem sovling with C++
+Game Engine Architecture
+Visual C++面向对象程序设计教程与实验
+Advanced Metaprogramming in Modern C++
+在实战中成长
+Practical UML Statecharts in C/C++, Second Edition           : Event-Driven Programming for Embedded Systems
+面向算法设计的数据结构（C++语言版）
+The C++ Programming Language 國際中文版 第四版
+Visual C++基础与案例开发详解
+Effective C++, Third Edition           : 55 Specific Ways to Improve Your Programs and Designs
+Nginx完全开发指南：使用C、C++和OpenResty
+我是一只IT小小鸟
+Beginning C++17: From Novice to Professional

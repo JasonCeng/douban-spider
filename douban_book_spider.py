@@ -63,7 +63,13 @@ def doubanCPlusPlusFun():
       page_item = (int(a_content) - 1) * 20
       page_list.append(page_item)
 
-  offset = page_list  # offset list for douban book C++ tag pages
+  n = 0
+  offset = []
+  for i in range(50):
+    n = i * 20
+    offset.append(n)
+
+  # offset = page_list  # offset list for douban book C++ tag pages
   for offset_value in offset: # loop in every page
     url = 'https://book.douban.com/tag/' + urllib.request.quote('C++') + '?start=' + str(offset_value) + '&type=S' # building a url for current page
     headers = setHeaders(url) # setting HTTP headers
