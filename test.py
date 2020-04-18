@@ -42,7 +42,7 @@ def setParams(offset_value):
 res = re.compile(r'\n|\t|\f|\r')
 
 # douban c++ book function
-def doubanCPlusPlusFun():
+if __name__ == '__main__':
   url = 'https://book.douban.com/tag/' + urllib.request.quote('C++') + '?start=0&type=S'
   headers = setHeaders(url)
   params = setParams(0)
@@ -63,40 +63,9 @@ def doubanCPlusPlusFun():
       page_item = (int(a_content) - 1) * 20
       page_list.append(page_item)
 
-  offset = page_list  # offset list for douban book C++ tag pages
-  for offset_value in offset: # loop in every page
-    url = 'https://book.douban.com/tag/' + urllib.request.quote('C++') + '?start=' + str(offset_value) + '&type=S' # building a url for current page
-    headers = setHeaders(url) # setting HTTP headers
-    params = setParams(offset_value) # settingHTTP params
-    try:
-      req = requests.post(url = url, headers = headers, params = params, cookies = cookies) # useing requests module's post method with some necessary parameters
-      req.encoding = 'utf-8' # setting the requests result's encoding with utf-8
-      html = req.text # getting the request's result in text
-      bf = BeautifulSoup(html, 'lxml') # useing BeautifulSoup to parsing page content with lxml rule
-      ul = bf.find_all('ul', class_ = 'subject-list') # useing bf's find_all method to find ul.subject-list
-
-      h2_bf = BeautifulSoup(str(ul[0]), 'lxml') # build h2 element to bf object with lxml rule
-      h2 = h2_bf.find_all('h2') # finding all h2 element to a list
-
-      for item in h2: # loop h2 element list
-        a_bf = BeautifulSoup(str(item),'lxml') # build a lemeent to bf object with lxml rule
-        a = a_bf.find_all('a') # finding all a element to a list
-        length = len(a) # a list length
-        n = 0 # n for judge position in a list
-        for item in a:
-          n += 1
-          clean_res = res.sub('', str(item.get_text())).strip() # clean the text in <a> element
-          # print(item.findAll(text=True)) #This way is also fine
-          print(clean_res) # print result
-          with open('.\douban_c++_bookList.txt', 'a', encoding = 'utf8') as file_obj: # create a append model file objecft for file write, encoding with utf8
-            if n == length-1: # judgeing if n is on last position of a list
-              file_obj.write(clean_res) # if yes, not add \n
-            else:
-              file_obj.write(clean_res+'\n') # if not, add \n
-      time.sleep(np.random.rand()*5) # sleep for a random time
-    except:
-      print('error')
-
-# main function
-if __name__ == '__main__':
-  doubanCPlusPlusFun()
+  for page_item in page_list:
+    print(page_item)
+  # a_list = paginator_div.find_all('a')
+  # paginator_div_bf = BeautifulSoup(str(paginator_div[0]), 'lxml')
+  # a = paginator_div_bf.find_all('a')
+  # print(a)
