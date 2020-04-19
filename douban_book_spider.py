@@ -27,7 +27,7 @@ def setHeaders(url):
 
 # A function for setting HTTP Cookie
 cookies = {
-  'Cookie': 'bid=2PO7OVd5sWc; douban-fav-remind=1; gr_user_id=cec8f650-bd35-4d8e-b52a-908af08abc66; _vwo_uuid_v2=DA5BBA5297373253C99165C8D9860DE06|20f91a9d51e40dc02c2c20a2d9184730; __yadk_uid=humkmVsnKOx2JVlRHvKwM25r56J2LuSv; ll="118267"; douban-profile-remind=1; __utmv=30149280.13083; __gads=ID=67540cc11cc8fe4f:T=1562551755:S=ALNI_MYSyvT5hjeVW9G9qY4VDPq4KX8jgw; Hm_lvt_6e5dcf7c287704f738c7febc2283cf0c=1567376884; viewed="1924288_4707725_26150549_1088054"; push_noty_num=0; push_doumail_num=0; dbcl2="130831067:8Avh5J7mURs"; __utmz=30149280.1585660002.32.17.utmcsr=baidu|utmccn=(organic)|utmcmd=organic; ck=XifE; __utmc=30149280; __utmc=81379588; __utmz=81379588.1586533355.17.13.utmcsr=douban.com|utmccn=(referral)|utmcmd=referral|utmcct=/doumail/; ap_v=0,6.0; _pk_ref.100001.3ac3=%5B%22%22%2C%22%22%2C1586602897%2C%22https%3A%2F%2Fwww.douban.com%2Fdoumail%2F%22%5D; _pk_ses.100001.3ac3=*; __utma=30149280.1033111501.1556794062.1586589473.1586602897.37; __utmt_douban=1; __utma=81379588.1818368698.1556794556.1586589473.1586602897.20; __utmt=1; __utmb=30149280.2.10.1586602897; __utmb=81379588.2.10.1586602897; _pk_id.100001.3ac3=bb4691241232828d.1556794558.18.1586602906.1586593510.'
+  'Cookie': ''
 }
 
 # A function for setting HTTP paraMs
@@ -41,8 +41,8 @@ def setParams(offset_value):
 # |&nbsp|\xa0|\\xa0|\u3000|\\u3000|\\u0020|\u0020 # Some white space ASCII CODE
 res = re.compile(r'\n|\t|\f|\r')
 
-# douban c++ book function
-def doubanCPlusPlusFun():
+def readPageNumFun():
+  # url = 'https://book.douban.com/tag/' + urllib.request.quote('C++') + '?start=0&type=S' # C++ tag
   url = 'https://book.douban.com/tag/' + urllib.request.quote('C++') + '?start=0&type=S'
   headers = setHeaders(url)
   params = setParams(0)
@@ -53,7 +53,7 @@ def doubanCPlusPlusFun():
   paginator_div = bf.find_all('div', class_ = 'paginator') # useing bf's find_all method to find ul.subject-list
   a_bf = BeautifulSoup(str(paginator_div[0]), 'lxml')
   a = a_bf.find_all('a')
-  page_list = [0]  
+  page_list = [0]
   a_len = len(a)
   for index in range(a_len):
     if index == a_len - 1:
@@ -62,6 +62,11 @@ def doubanCPlusPlusFun():
       a_content = res.sub('', str(a[index].get_text())).strip()
       page_item = (int(a_content) - 1) * 20
       page_list.append(page_item)
+  return page_list
+
+# douban c++ book function
+def doubanCPlusPlusFun():
+  page_list = readPageNumFun()
 
   n = 0
   offset = []
