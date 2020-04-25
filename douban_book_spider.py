@@ -27,7 +27,7 @@ def setHeaders(url):
 
 # A function for setting HTTP Cookie
 cookies = {
-  'Cookie': ''
+  'Cookie': 'your_cookie'
 }
 
 # A function for setting HTTP paraMs
