@@ -1,0 +1,60 @@
+高性能MySQL           : 第3版
+数据库系统概念           : （原书第6版）
+MySQL必知必会
+SQL必知必会           : （第4版）
+数据密集型应用系统设计
+MySQL技术内幕           : InnoDB存储引擎
+Redis设计与实现
+数据库索引设计与优化
+SQL基础教程
+数据库系统实现
+SQL进阶教程
+Database Internals           : A deep-dive into how distributed data systems work
+数据库系统概念           : 第五版
+数据库系统概论（第5版）
+Redis 深度历险：核心原理与应用实践
+MySQL基础教程
+SQL基础教程
+数据库查询优化器的艺术           : 原理解析与SQL性能优化
+漫画数据库
+Principles of Distributed Database Systems
+SQL反模式
+Redis开发与运维
+设计数据密集型应用（影印版）
+深入浅出数据分析
+Readings in Database Systems
+SQL学习指南（第2版 修订版）
+七周七数据库
+HBase原理与实践
+深入浅出MySQL           : 数据库开发、优化与管理维护
+Oracle Database 9i/10g/11g编程艺术           : 深入数据库体系结构
+数据库系统基础教程           : 原书第3版
+Transaction Processing           : Concepts and Techniques (The Morgan Kaufmann Series in Data Management Systems)
+PostgreSQL 数据库内核分析
+MySQL技术内幕（第5版）
+MySQL内核：InnoDB存储引擎 卷1
+HikariCP数据库连接池实战
+Cassandra: The Definitive Guide, 3rd Edition           : Distributed Data at Web Scale
+Graph Databases in Action
+HBase权威指南
+Database System Concepts
+Oracle编程艺术：深入理解数据库体系结构（第3版）           : 深入理解数据库体系结构
+数据库重构
+NoSQL精粹
+MySQL管理之道（第2版）           : 性能调优、高可用与监控
+Database System Concepts           : 7th Edition
+数据库事务处理的艺术           : 事务管理与并发控制
+涂抹MySQL           : 跟着三思一步一步学MySQL
+Database Design and Implementation, Second Edition           : Data-Centric Systems and Applications
+Streaming Systems           : The What, Where, When, and How of Large-Scale Data Processing
+SQL Performance Explained
+HBase权威指南
+数据仓库工具箱（第3版）           : 维度建模权威指南
+Relational Database Index Design and the Optimizers           : Db2, Oracle, Sql Server, Et Al.Essing, Second Edition
+Redis实战
+MySQL运维内参           : MySQL、Galera、Inception核心原理与最佳实践
+MySQL技术内幕           : InnoDB存储引擎
+Making Databases Work           : the Pragmatic Wisdom of Michael Stonebraker
+数据库系统全书
+DBA的思想天空           : 感悟Oracle数据库本质
+深度探索关系数据库           : 实践者的关系理论
